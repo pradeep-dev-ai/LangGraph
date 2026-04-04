@@ -1,0 +1,10 @@
+
+
+
+# This file is used to store environment variables, such as API keys.
+# Make sure to replace the placeholder values with your actual API keys.
+.env
+
+venv/
+__pycache__/
+*.pyc
